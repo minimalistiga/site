@@ -1,2 +1,2 @@
 # site
-тимчасовий сайт 
+temporary website
